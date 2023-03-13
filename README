@@ -48,3 +48,8 @@ bochs" and then type "c" at the bochs prompt. To run in QEMU, run
 
 To create a typeset version of the code, run "make xv6.pdf".  This
 requires the "mpage" utility.  See http://www.mesa.nl/pub/mpage/.
+
+////// THIS SOFTWARE HAS BEEN COMPLETELY MODIFIED FOR EDUCATIONAL PURPOSE/////////////////
+1.Changes were made in fork fucntion to run repeats of producer and consumer 
+2.Used to show the time taken for execution for different types of memories in the system
+/////////////////////////////////////////////////////////////////////////////////////////
